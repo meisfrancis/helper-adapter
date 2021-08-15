@@ -1,5 +1,5 @@
 {
-  "name": "omoeo-helper-adapter",
+  "name": "helper-adapter",
   "version": "1.1.2",
   "description": "",
   "main": "dist/index.js",
@@ -19,7 +19,6 @@
     "jsonwebtoken": "8.5.1",
     "md5": "2.2.1",
     "nodemailer": "6.1.1",
-    "omoeo-helper": "git+ssh://git@bitbucket.org:omoeo/omoeo-helper.git",
     "redis": "2.8.0"
   },
   "devDependencies": {
@@ -30,6 +29,5 @@
     "@babel/preset-env": "7.4.2",
     "jasmine": "3.4.0",
     "jasmine-ts-console-reporter": "3.1.1"
-  },
-  "repository": "git@bitbucket.org:omoeo/omoeo-helper-adapter.git"
+  }
 }
